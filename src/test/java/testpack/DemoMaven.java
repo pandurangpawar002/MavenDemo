@@ -13,7 +13,7 @@ public class DemoMaven {
 
 	@Test
 	public static void startapp() {
-		WebDriver driver;//hello
+		WebDriver driver;//hellojj
 
 		System.setProperty("webdriver.chrome.driver",
 				"D:\\Atomation\\Selenium jars and drivers\\Chrome 96\\chromedriver.exe");
